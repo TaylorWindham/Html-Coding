@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link rel="stylesheet" href="style.css"/>
+    
+  </head>
+  
+  <body> 
+    <div>
+      <h1> Taylor Windham</h1>
+      <h2> (612) 220-4666</h2>
+      <h3> twind32@gmail.com</h3>
+    </div>
+   
+    <h2>Professional Summary</h2>
+      
+    <p>Aspiring computer science engineer. Dependable and skilled at managing diverse needs in challenging and fast paced environments.  Detailed oriented, organized, and highly resourceful with strong decision making and problem-solving abilities. Electronically savvy. Quickly learns new skills and processes.  
+ </p>
+      <h2>Professional Experience</h2>
+      
+    <div>  
+      <h3>Sun Country</h3>
+      <h3>Sun Country Reservationist</h3>
+      <h3>May 2022- Present</h3>
+      <p>Answer calls in a timely manner. Help the customer with all their booking needs.Answer any and all questions regarding flying with Sun Country.</p>
+    <div/>
+     
+      
+    <div>  
+      <h3>Amazon Deliveries</h2>
+      <h3>Amazon delivery driver</h3>
+      <h3>June 2020-May 2022</h3>
+      <p>Arrive on time and load vehicle with packages.Deliver all packages in a timely manner within time limit. Follow all traffic rules and regulations. Maintain vehicle tidyness
+</p>
+    </div>
+      
+      
+      <h3>UPS Store</h2>
+      <h3>UPS Store Associate</h3>
+      <h3>December 2019- April 2020</h3>
+      <p>Maintain and keep operation of the store.Provide a positive work environment for customers. Maintain secure cash handling. Help supervise new associates. Keep a clean and sanitary workplace. 
+</p>
+      
+      
+      
+  </body>
+  
+  
+</html>  
