@@ -1,9 +1,13 @@
 
 body{
-  background-color: yellow;
+  background-color:#d3d3d3;
 }
 
 
-.header {
-  background-color: blue;
-  padding-left: 300px
+.jumbotron{
+  background-color:#bebebe; 
+}
+
+.header{
+  padding-left: 15px;
+}
